@@ -1,8 +1,10 @@
 <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/mcpeixoto/mcpeixoto/master/hand_wave.gif" width="30"> I'm Miguel! 😊</h1>
 
 # 🧍‍♂️ About Me:
-I'm a Information Physics Master Student at [University of Minho](https://www.uminho.pt/).
-🔭 Currently researching Quantum Machine Learning applied to High-Energy Physics at [LIP](https://www.lip.pt/).<br>🌱 I’m currently learning about Natural Language Processing and Graph Neural Networks<br>💬 Ask me about anything!
+I'm a Information Physics Master Student at [University of Minho](https://www.uminho.pt/).<br>
+🔭 Currently researching Quantum Machine Learning applied to High-Energy Physics at [LIP](https://www.lip.pt/).<br>
+🌱 I’m currently learning about Natural Language Processing and Graph Neural Networks<br>
+💬 Ask me about anything physics/ML related!
 
 
 ## 🌐 Socials:
