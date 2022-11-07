@@ -2,8 +2,8 @@
 
 # 🧍‍♂️ About Me:
 I'm a Information Physics Master Student at [University of Minho](https://www.uminho.pt/).<br>
-🔭 Currently researching Quantum Machine Learning applied to High-Energy Physics at [LIP](https://www.lip.pt/).<br>
-🌱 I’m currently learning about Natural Language Processing and Graph Neural Networks<br>
+🔭 Researching Quantum Machine Learning applied to High-Energy Physics at [LIP](https://www.lip.pt/).<br>
+🌱 Learning about Natural Language Processing and Graph Neural Networks<br>
 💬 Ask me about anything physics/ML related!
 
 You can find my personal website [here](https://miguelpeixoto.net)
