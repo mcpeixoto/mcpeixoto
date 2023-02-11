@@ -29,11 +29,19 @@ You can find my personal website [here](https://miguelpeixoto.net)
 
 ## 🚧 Featured Projects
 
-## 📖 Publications
+### 📖 Publications
 
 - [**"Fitting a Collider in a Quantum Computer: Tackling the Challenges of Quantum Machine Learning for Big Datasets"**](https://arxiv.org/abs/2211.03233) - *Miguel Caçador Peixoto, Nuno Filipe Castro, Miguel Crispim Romão, Maria Gabriela Jordão Oliveira and Inês Ochoa*
 
-## 📚 University Classes & Projects
+
+### 🧍‍♂️ My Own Projects
+- [**QML-HEP**](https://github.com/mcpeixoto/QML-HEP) - Code repository for the ["Fitting a Collider in a Quantum Computer: Tackling the Challenges of Quantum Machine Learning for Big Datasets"](https://arxiv.org/abs/2211.03233) paper.
+
+- [**Paper Recommendation System**](https://github.com/mcpeixoto/Paper-Recommendation-System) - Web interface to search ArXiv papers using NLP Sentence-Transformers, Faiss and Streamlit
+
+- [**GPT**](https://github.com/mcpeixoto/gpt) - Implementation of a scalled down ChatGPT-like transformer pretraining using PyTorch
+
+### 📚 University Classes & Projects
 
 - [**Advanced Instrumentation Project**](https://github.com/mcpeixoto/Advanced-Instrumentation) - Airplane simulator (MATLAB) controlled by an accelerometer which communicated using IEEE 1451 protocol. All the microcontroller code was written in Assembly and C.
 
@@ -42,17 +50,6 @@ You can find my personal website [here](https://miguelpeixoto.net)
 - [**Parallel Computing Course**](https://github.com/mcpeixoto/Parallel-Computing-Project) - Contains the final project. The assigment consisted in making an optimized & parallelized version of the Bucket Sort algorithm, written in C, using OpenMP.
 
 - [**Quantum Computing Course**](https://github.com/mcpeixoto/QuantumComputingQC) - Solved exercises.
-
-Own projects:
-## 🧍‍♂️ My Own Projects
-- [**QML-HEP**](https://github.com/mcpeixoto/QML-HEP) - Code repository for the ["Fitting a Collider in a Quantum Computer: Tackling the Challenges of Quantum Machine Learning for Big Datasets"](https://arxiv.org/abs/2211.03233) paper.
-
-- [**Paper Recommendation System**](https://github.com/mcpeixoto/Paper-Recommendation-System) - Web interface to search ArXiv papers using NLP Sentence-Transformers, Faiss and Streamlit
-
-- [**GPT**](https://github.com/mcpeixoto/gpt) - Implementation of a scalled down ChatGPT-like transformer pretraining using PyTorch
-
-
-
 
 
 ## Other & Ongoing Projects
