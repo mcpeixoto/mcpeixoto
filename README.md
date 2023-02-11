@@ -6,7 +6,7 @@ I'm a Information Physics Master Student at [University of Minho](https://www.um
 🌱 Learning about Natural Language Processing and Graph Neural Networks<br>
 💬 Ask me about anything physics/ML related!
 
-You can find my personal website [here](https://miguelpeixoto.net)
+You can find my **personal website** [here](https://miguelpeixoto.net)
 
 ---
 
