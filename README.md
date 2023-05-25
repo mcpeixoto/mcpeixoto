@@ -13,10 +13,10 @@ You can find my **personal website** [here](https://miguelpeixoto.net)
 ## 🌐 Socials:
 
 <div align="center">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/miguelca%C3%A7adorpeixoto/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://medium.com/@https://medium.com/@miguelpeixoto457"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
-    <a href="https://reddit.com/user/https://www.reddit.com/user/MiguelCacadorPeixoto"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"></a>
-    <a href="https://twitter.com/https://twitter.com/mcpeixoto457"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
+    <a href="https://www.linkedin.com/in/miguelca%C3%A7adorpeixoto/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://medium.com/@miguelpeixoto457"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
+    <a href="https://www.reddit.com/user/MiguelCacadorPeixoto"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"></a>
+    <a href="https://twitter.com/mcpeixoto457"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
 </div>
 
 
