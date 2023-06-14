@@ -43,6 +43,8 @@ You can find my **personal website** [here](https://miguelpeixoto.net)
 
 ### 📚 University Classes & Projects
 
+- [**Quantum Reinforcement Learning**](https://github.com/mcpeixoto/ReinforcementQML) - Comparative study: Quantum vs. classical models for Cart Pole. Examining entanglement layers and data re-uploading, highlighting quantum model superiority.
+
 - [**Latinium**](https://github.com/mcpeixoto/Latinium) - Latin-based programming language.
 
 - [**Advanced Instrumentation Project**](https://github.com/mcpeixoto/Advanced-Instrumentation) - Airplane simulator (MATLAB) controlled by an accelerometer which communicated using IEEE 1451 protocol. All the microcontroller code was written in Assembly and C.
