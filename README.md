@@ -55,6 +55,8 @@ You can find my **personal website** [here](https://miguelpeixoto.net)
 
 - [**Quantum Computing Course**](https://github.com/mcpeixoto/QuantumComputingQC) - Solved exercises.
 
+- [**Ciber Physics Computing Course**](https://github.com/mcpeixoto/CiberPhysicsComputing) - Course work includes UPPAL modeling, Haskell programming language creation, and formal methods verification.
+
 
 ## Other & Ongoing Projects
 
