@@ -2,7 +2,7 @@
 
 # 🧍‍♂️ About Me:
 📷 Leading factory-wide digitalization initiatives using computer vision and machine learning at [Bosch](https://www.bosch.pt/).<br>
-🌱 Conducting research in Natural Language Processing and Graph Neural Networks.<br>
+🌱 Trying to solve AGI on my free time.<br>
 🔭 Mentoring students on Quantum Machine Learning applications in High-Energy Physics at [LIP](https://www.lip.pt/).<br>
 💬 Feel free to ask me anything about physics or machine learning!
 
