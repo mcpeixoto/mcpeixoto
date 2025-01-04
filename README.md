@@ -1,10 +1,18 @@
 <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/mcpeixoto/mcpeixoto/master/hand_wave.gif" width="30"> I'm Miguel! 😊</h1>
 
 # 🧍‍♂️ About Me:
-📷 Leading factory-wide digitalization initiatives using computer vision and machine learning at [Bosch](https://www.bosch.pt/).<br>
-🌱 Trying to solve AGI on my free time.<br>
-🔭 Mentoring students on Quantum Machine Learning applications in High-Energy Physics at [LIP](https://www.lip.pt/).<br>
-💬 Feel free to ask me anything about physics or machine learning!
+
+2025-?
+Having fun doing full factory digitalization at Bosch Ovar. Corporate go brr
+
+2022-2024
+Even though I chose Information Physics as my master's, I ended up divirding from quantum computing (the hardware is not there yet). Wanted to build something usefull for the world NOW and not theorize now -> wait for the HW to be better -> Hope that it works in the future. I work better at iterating rapidly across prototypes and ending up with something roboust in the end. Ended up doing my thesis at Bosch Multimedia in Braga where I developed a fully working framework for FULLY automated quality control in any production line, capable of detecting anomalies in any industrial part being only required a small dataset of defect free parts. At the same time, I also got into the Boost Program at another Bosch for that last year, so 2 jobs at a time.
+ 
+2019-2022
+Three intense years of diving deep into math, physics, and programming. Even learned on how to do full programs in assembly! Aside from studing I was also doing part-time research at LIP which contributed for me to be always tired. During summer breaks I oriented other students in internertships on ML & particle physics at the lab. Ended up falling in love with quantum mechanics, published a paper about it + ML (my two loves at the time). Also did some colaborations with internal departments at my lab, notoriously with SPAC, trying to apply AI to the Portuguese Medical Records.
+
+2016-2019
+A future engineering student, in love with learning programming on my own, coding my own webscrapping/websites/automated (*insert anything*)/algo trading projects to try to make 💸. Had an excelent physics teacher that put me in love with being curious about nature, their forces and building blocks. Also loved robotics, was a founding member of my school robotics club, build a 3D printer from scrach on the summer of 19'. Ended up at choosing Physics Engineering as my batcherlors. Won a regional entrepreneur award for building an automated marking tool for small businesses.
 
 You can find my **personal website** [here](https://miguelpeixoto.net)
 
